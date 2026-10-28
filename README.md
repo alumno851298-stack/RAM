@@ -56,7 +56,11 @@ They work in the same way, and the difference is their size. DIMM is bigger and 
 - Frequency 3600 MHz
 - Latency CL18
 - Price 261.99€
+<<<<<<< HEAD
 - ![G.Skill Ripjaws V DDR4](IMAGENES\DDR4\G.Skill Ripjaws V DDR4.png)
+=======
+- ![G.Skill Ripjaws V DDR4](C:/Users/sisi/Desktop/IMAGENES/DDR4RIPJAWS.png)
+>>>>>>> b020a80ac81cde504fa60758c3a950c8e220e57e
 
 ### RAM Kits DDR5
 

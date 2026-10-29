@@ -118,7 +118,7 @@ The RAM modules are installed in the DIMM slots of the motherboard, so both must
 **Physical differences:** It is easy to tell both of them apart because the notch is in a different position. This stops you from inserting the wrong type of memory and forces you to install it in the correct direction.
 
 ![diferenceram](IMAGENES/DDR5-and-DDR4-Appearance-Difference.png)
-![allram]("/IMAGENES/allddr.png")
+![allram]("IMAGENES/allddr.png")
 
 ---
 

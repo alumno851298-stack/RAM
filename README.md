@@ -159,7 +159,7 @@ SO-DIMM
 ![ripjaws](IMAGENES/DDR4/G.SkillRipjawsVDDR4.png)
 
 - Key specs: 32 GB (2×16 GB), 3600 MHz, CL18
-- Price (checked on 2026-10-28): 261.99 €
+- Price (checked on 2026-10-28): 286.99 €
 
 [Product page](https://www.pccomponentes.com/memoria-ram-g-skill-ripjaws-v-ddr4-3600mhz-pc4-28800-32gb-2x16gb-cl18)
 
@@ -170,7 +170,7 @@ SO-DIMM
 ![kingstonfuryddr5](IMAGENES/DDR5/beast.png)
 
 - Key specs: 32 GB (2×16 GB), 5600 MHz, CL36
-- Price (checked on 2026-10-28): 629.90 €
+- Price (checked on 2026-10-28): 649.90 €
 
 [Product page](https://www.pccomponentes.com/kingston-fury-beast-ddr5-5600mhz-32gb-2x16gb-cl36)
 
@@ -179,7 +179,7 @@ SO-DIMM
 ![vengeanceddr5](IMAGENES/DDR5/venganzeDDR5.png)
 
 - Key specs: 32 GB (2×16 GB), 6000 MHz, CL38
-- Price (checked on 2026-10-28): 542.90 €
+- Price (checked on 2026-10-28): 756.02 €
 
 [Product page](https://www.pccomponentes.com/memoria-ram-corsair-vengeance-32gb-2x16gb-ddr5-6000mhz-cl38-intel-xmp-negra)
 
